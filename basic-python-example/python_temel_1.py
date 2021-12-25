@@ -1,10 +1,10 @@
 #1
 
-def fluatten(l):
+def flatten(l):
     s = []
     for i in l:
         if type(i) is list:
-            s.extend(fluatten(i))
+            s.extend(flatten(i))
         else:
             s.append(i)
     return s
