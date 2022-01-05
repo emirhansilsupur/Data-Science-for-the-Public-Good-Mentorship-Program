@@ -1,5 +1,7 @@
 # DSPG-World-Happiness-Report
 
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+
 ## Patike dev ile mentor eşliğinde proje gerçekleştirilmiştir.
 
 ### Data Visualization :
